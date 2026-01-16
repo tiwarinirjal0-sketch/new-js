@@ -1,0 +1,2 @@
+# new-js
+frist repo
